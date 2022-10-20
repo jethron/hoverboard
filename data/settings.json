@@ -1,12 +1,12 @@
 {
   "organizer": {
-    "name": "Measurecamp Sydney 2019",
-    "twitter": "mcsydney",
-    "blog": "http",
-    "url": ""
+    "name": "Measurecamp Sydney 2022",
+    "twitter": "MeasureCampSyd",
+    "blog": "https://sydney.measurecamp.org/blog/",
+    "url": "https://sydney.measurecamp.org/"
   },
-  "startDate": "2019-10-26T09:00:00+11:00",
-  "endDate": "2019-10-26T19:00:00+11:00",
+  "startDate": "2022-10-22T09:00:00+11:00",
+  "endDate": "2022-10-22T16:30:00+11:00",
   "webapp": {
     "shortName": "MC Sydney",
     "themeColor": "#673AB7",
@@ -31,7 +31,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Join the commuity, learn new things!",
+      "description": "Join the community, learn new things!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -48,8 +48,8 @@
     },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "metaDescription": "",
+      "description": "",
       "background": {
         "color": "#FFF"
       },
@@ -81,7 +81,7 @@
     },
     "sponsor": {
       "title": "Sponsors",
-      "metaDescription": "sponsor metadescription"
+      "metaDescription": "Fantastic sponsors of MeasureCamp!"
     },
     "faq": {
       "title": "FAQs",
@@ -102,20 +102,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "",
+    "name": "Google Sydney",
     "city": "Sydney",
     "short": "Sydney, Australia",
-    "address": "Google Address",
+    "address": "48 Pirrama Road, Pyrmont NSW 2009",
     "pointer": {
-      "latitude": -33,
-      "longitude": 151,
+      "latitude": -33.8669,
+      "longitude": 151.1959,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": -33,
-      "longitude": 151
+      "latitude": -33.8669,
+      "longitude": 151.1959
     },
-    "description": "Google offices Sydney"
+    "description": "Google Sydney"
   },
   "mediaQueries": {
     "xs": {
@@ -137,11 +137,11 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/"
+        "url": "https://www.meetup.com/Data-and-Analytics-Wednesday-Sydney/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/measurecampsydney/"
+        "url": "https://twitter.com/MeasureCampSyd/"
       }
     ],
     "share": [
@@ -155,7 +155,7 @@
       }
     ]
   },
-  "mailto": "committee@daw.org.au",
+  "mailto": "committee@wawsydney.com",
   "signInProviders": {
     "providersData": [
       {

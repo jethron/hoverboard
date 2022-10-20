@@ -1,10 +1,10 @@
 {
-  "title": "Measurecamp Sydney 2019",
+  "title": "MeasureCamp Sydney 2022",
   "description": "Join the community, learn new things!",
   "image": "images/social-share.jpg",
   "keywords": "measurecamp, sydney",
-  "dates": "October 26, 2019",
-  "partnershipProposition": "https://",
+  "dates": "October 22, 2022",
+  "partnershipProposition": "https://www.dawsydney.org.au/",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -36,14 +36,19 @@
       "title": "About",
       "links": [
         {
-          "name": "Measurecamp Sydney",
-          "url": "http://sydney.measurecamp.org/",
+          "name": "MeasureCamp Sydney",
+          "url": "https://sydney.measurecamp.org/",
+          "newTab": true
+        },
+        {
+          "name": "Data & Analytics Wednesday",
+          "url": "https://www.dawsydney.org.au/",
           "newTab": true
         }
       ]
     },
     {
-      "title": "Explore Past Measurecamps",
+      "title": "Explore Past MeasureCamps",
       "links": [
         {
           "name": "MC 2018",
@@ -66,7 +71,7 @@
       "title": "Event Resources",
       "links": [
         {
-          "name": "Link",
+          "name": "Website",
           "url": "https://sydney.measurecamp.org",
           "newTab": true
         },
@@ -82,10 +87,10 @@
   "codeOfConduct": "Code of Conduct",
   "codeOfConductBlock": {
     "organization": "DevFest",
-    "form": "https://bit.ly/2RstTJ8",
+    "form": "https://www.dawsydney.org.au/code-of-conduct.html",
     "contacts": [
-      "Organizer Oleh Zasadnyy, [+38 093 486 6460](tel:+380934866460), o.zasadnyy@gdg.org.ua",
-      "Organizer Sofiya Huts, [+38 093 486 1425](tel:+380934861425), s.huts@gdg.org.ua"
+      "Organizer Committee, committee@wawsydney.com",
+      "Organizer Jethro Nederhof, [+61 431 951 561](tel:+6143951561), jethro@jethron.id.au"
     ]
   },
   "aboutBlock": {
@@ -177,7 +182,7 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
+    "title": "#measurecampsydney highlights",
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
@@ -205,7 +210,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Measurecamp is made possible through the generosity of our sponsors"
+    "description": "Measurecamp is made possible through the generosity of our sponsors."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
