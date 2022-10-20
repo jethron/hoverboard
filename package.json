@@ -55,6 +55,7 @@
     "gulp-uglify": "3.0.2",
     "merge-stream": "^1.0.1",
     "polymer-build": "^2.5.0",
+    "polymer-analyzer": "^2.5.0",
     "pre-commit": "^1.2.2",
     "require-uncached": "^1.0.3",
     "sw-precache": "^5.2.1",
