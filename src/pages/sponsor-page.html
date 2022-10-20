@@ -41,7 +41,7 @@
         flex: none;
         width: 96px;
         height: 96px;
-        background-color: var(--contrast-additional-background-color);
+        /*background-color: var(--contrast-additional-background-color);*/
         overflow: hidden;
         transform: translateZ(0);
         border: 5px solid var(--contrast-additional-background-color);
@@ -108,15 +108,15 @@
     </style>
 
     <polymer-helmet
-      title="{$ heroSettings.team.title $} | {$ title $}"
-      description="{$ heroSettings.team.metaDescription $}"
+      title="{$ heroSettings.sponsor.title $} | {$ title $}"
+      description="{$ heroSettings.sponsor.metaDescription $}"
       active="[[active]]"
     ></polymer-helmet>
 
     <hero-block
-      background-image="{$ heroSettings.team.background.image $}"
-      background-color="{$ heroSettings.team.background.color $}"
-      font-color="{$ heroSettings.team.fontColor $}"
+      background-image="{$ heroSettings.sponsor.background.image $}"
+      background-color="{$ heroSettings.sponsor.background.color $}"
+      font-color="{$ heroSettings.sponsor.fontColor $}"
       active="[[active]]"
     >
       <div class="hero-title highlight-font">{$ heroSettings.sponsor.title $}</div>
@@ -138,16 +138,22 @@
         <div class="team-block">
           <template is="dom-repeat" items="[[team.members]]" as="member">
             <div class="member" layout horizontal>
-              <plastic-image
-                class="photo"
-                srcset="[[member.photoUrl]]"
-                sizing="contain"
-                lazy-load preload fade>
-              </plastic-image>
+                <a href="[[member.url]]">
+                  <plastic-image
+                    class="photo"
+                    srcset="[[member.photoUrl]]"
+                    sizing="contain"
+                    lazy-load preload fade>
+                  </plastic-image>
+                </a>
 
-              <div class="member-details" layout vertical center-justified start>
-                <h2 class="name">[[member.name]]</h2>
-              </div>
+                <div class="member-details" layout vertical center-justified start>
+                    <h2 class="name">
+                      <a href="[[member.url]]">
+                      [[member.name]]
+                      </a>
+                    </h2>
+                </div>
 
             </div>
           </template>
@@ -193,4 +199,3 @@
 
   </script>
 </dom-module>
-

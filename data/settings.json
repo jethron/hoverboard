@@ -81,7 +81,11 @@
     },
     "sponsor": {
       "title": "Sponsors",
-      "metaDescription": "Fantastic sponsors of MeasureCamp!"
+      "metaDescription": "Fantastic sponsors of MeasureCamp!",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
     },
     "faq": {
       "title": "FAQs",
