@@ -123,15 +123,15 @@
   },
   "roomInfo": {
     "sponsorMap": {
-      "Play": "Play",
-      "Pixel": "Pixel",
-      "Parasol": "Parasol",
+      "Play": "Amplitude",
+      "Pixel": "Jellyfish",
+      "Parasol": "Canva",
       "Venue": "Google Cloud",
-      "Snapshot": "Snapshot",
+      "Snapshot": "Insightech",
       "Toybox": "Toybox",
       "Studio": "Studio",
       "Trailer": "Trailer",
-      "Playlist": "Playlist",
+      "Playlist": "Poplin Data",
       "Motive": "Motive",
       "Million": "Million"
     }
