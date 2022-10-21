@@ -62,8 +62,11 @@
     "sw-precache": "^5.2.1",
     "uglify-es": "^3.3.9"
   },
+  "overrides": {
+    "archiver": "^5.0.0"
+  },
   "engines": {
-    "node": "14"
+    "node": "10"
   },
   "private": true,
   "pre-commit": "lint"
