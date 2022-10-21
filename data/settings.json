@@ -121,6 +121,21 @@
     },
     "description": "Google Sydney"
   },
+  "roomInfo": {
+    "sponsorMap": {
+      "Play": "Play",
+      "Pixel": "Pixel",
+      "Parasol": "Parasol",
+      "Venue": "Google Cloud",
+      "Snapshot": "Snapshot",
+      "Toybox": "Toybox",
+      "Studio": "Studio",
+      "Trailer": "Trailer",
+      "Playlist": "Playlist",
+      "Motive": "Motive",
+      "Million": "Million"
+    }
+  },
   "mediaQueries": {
     "xs": {
       "max": "639px"
