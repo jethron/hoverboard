@@ -77,6 +77,16 @@ It has a small capacity (~14 chairs), conference-style around a single large tab
 
 Good for discussions or workshops.
 
+### {$ roomInfo.sponsorMap.Playlist $} (aka "Playlist") room
+This room is located on Level 3.
+
+This room is roughly above the Board area (which is on Level 2).
+From the lifts or stairs, go around to "behind" the stairs to find the room, which is next to Million.
+
+The capacity is smaller (~10 charis), with a conference-style setup, with chairs circling around a single long table.
+
+Good for smaller talks or discussions.
+
 ### {$ roomInfo.sponsorMap.Toybox $} (aka "Toybox") room
 ### {$ roomInfo.sponsorMap.Studio $} (aka "Studio") room
 ### {$ roomInfo.sponsorMap.Trailer $} (aka "Trailer") room
@@ -100,16 +110,14 @@ It has an intimate capacity (~5 chairs).
 Good for smaller talks or discussions on niche topics (or shy presenters!), or as a hideaway for getting some work done or quickly writing up a presentation for a later session.
 
 ### {$ roomInfo.sponsorMap.Million $} (aka "Million") room
-### {$ roomInfo.sponsorMap.Playlist $} (aka "Playlist") room
-These rooms are located on Level 3.
+This room is located on Level 3.
 
-These small rooms are roughly above the Board area (which is on Level 2).
-From the lifts or stairs, go around to "behind" the stairs to find the rooms, which are next to eachother.
+This room is roughly above the Board area (which is on Level 2).
+From the lifts or stairs, go around to "behind" the stairs to find the room, which is next to {$ roomInfo.sponsorMap.Playlist $} ("Playlist").
 
-{$ roomInfo.sponsorMap.Playlist $} ("Playlist") is a conference-style setup, with chairs circling around a single long table (~10 chairs).
 {$ roomInfo.sponsorMap.Million $} ("Million") is more intimate, with casual sofa-style seating (~4 chairs).
 
-Good for smaller talks or discussions on niche topics (or shy presenters!), or as a hideaway for getting some work done or quickly writing up a presentation for a later session.
+Good for very small sessions or discussions on niche topics (or shy presenters!), or as a hideaway for getting some work done or quickly writing up a presentation for a later session.
 
 ### Stay Informed
 
